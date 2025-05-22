@@ -39,7 +39,7 @@ Sou um desenvolvedor iniciante em constante evolução, atualmente focado em pro
 ## 📫 Contato
 
 - ✉️ Email: [aldenordantas7@gmail.com](mailto:aldenordantas7@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aldenordantas(www.linkedin.com/in/aldenordantas)
+- 💼 LinkedIn: www.linkedin.com/in/aldenordantas
 - 🧠 Projetos educacionais: veja meus repositórios!
 
 ---
